@@ -4,7 +4,7 @@ Hasil digabung ke data_mbg.csv, duplikat dibuang, lalu disaring
 relevansinya ke data_mbg_final.csv.
 
 Cara pakai:
-1. config.py berisi  APIFY_TOKEN = "apify_api_vDPhsNM1XOsDtpCC0w3bxRkzJmHIr80WlDJ7"
+1. config.py berisi  APIFY_TOKEN = apify_api_token = "MASUKKAN_TOKEN_ANDA_DISINI"
 2. python apify_mbg.py
 Aman dijalankan berulang (data lama tidak hilang).
 """
